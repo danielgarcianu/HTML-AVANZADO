@@ -1,0 +1,21 @@
+/* table, tr, th, td,/*llama diferentes selectores de etiqueta al mismo tiempo*/ 
+table, tr, th, td{
+    border:1px solid black;
+}
+table{
+    width:300px;
+    background-color: bisque;
+}
+
+td{
+    background-color: bisque;
+}
+th{
+    background-color: violet;
+}
+.rojo{
+    color: red;
+}
+.amarillo{
+    color: yellow;
+}

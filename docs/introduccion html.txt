@@ -1,0 +1,79 @@
+la web es una cadena de computadoras conectadas
+ que es la web cuando una compu esta conectada mostrando un  sitio web
+ esa computadora funciona como servidor 
+ 
+  html para marcar el contenido 
+  css para estilizarlo
+  js para hacerlo interactivo
+
+usas navegadore aplicaciones para poder correr los programas 
+
+los clientes son los dispositivos que usas para cargar una pagina web
+
+<!DOCTYPE html> etiqueta que indica que esta escrito en html
+
+<htlml> lenguaje de marcado todo es a base de etiquetas
+
+</html> fin de etiqueta
+
+<head> inicio del encabezado el usuario no lo puede ver
+ <meta charset= "utf-8"> da al navegador detalles de como usar la pagina
+ <title> new page </title>
+
+ <body>
+ <h1>All about rabits</h1> titulo principal
+ <p> escrito </p> ingrsar parrafo
+ para idicar un salto de linea <br> 
+ <em> tu texto aqui </em> sirve para enfatisar (cursivas)
+ <strong> tu texto aqui </strong> para resaltar
+  <ul>
+  <li> elemento de la lista <li> agregar elemento de la lista 
+  </ul> agregar listascon vinetas
+
+  <ol>
+  <li></li>
+  <ol> listas ordenadas numerara cada etiqueta nueva 
+  <img src>  (url) insertar imagenes solo imagenes que estan en internet  
+  src es la fuente src significa recurso source
+  <img src = ""> los valores de los atributos siempre van entre comillas
+  que pasa si el navegador que tenia la imagen falla
+  alt= "descripcion de imagen"
+  <img src= "http" alt ="descripcion">
+  height ""50 width ="..."
+  
+lenguaje de marcas de hipertexto html
+hipertexto es un texto que esta conectado con otro texto 
+como conectamos paginas web con otras con un hipervinculo hoy llamado enlace
+como hacer un enlace en html <a></a> ancla esta etiqueta ancla el enlace en 
+cierta posicion de la pagina y conecta esa ancla a una pagina web diferente 
+para hacer un enlace primero tenemos que escribir la etiqueta y deapues 
+decidir el texto de el enlace para despues elegir la direccion a la que el 
+enlace se va a dirigir
+el enlace lo ponemos dentro de un atributo de la etiqueta <a href= h significa 
+hiper hiper referencia despues pones el url 
+<a href= "http://home.web.cern.ch/topics/birth-web"> 
+esta se conoce como una url absoluta por que tiene todo lo que el navegador 
+necesita para encontrar la pagina web el protocolo utilizado http 
+el dominio home.web.cern.ch y la ruta para encontrarlo en el servidor 
+/topics/birth-web
+en algunos navegadores podras encontrar url que inicien con una diagonal 
+y una ruta lo cual indica al navegador que se quede en el dominio actualy 
+solo busque una ruta diferente de ese dominio a eso se le llama url relativa
+se usan para hacer enlaces entre los contenidos de una pagina web 
+tambien podemos decirle al navegador donde abrir la pagina en la pagina 
+actual o en otra ventana 
+para abrilo en otra ventana usamos el atributo target <a target="_blank">
+target se usa cuando se va a abrir un nuevo dominio
+enlazar imagenes
+
+
+
+
+
+
+
+
+
+
+
+ 

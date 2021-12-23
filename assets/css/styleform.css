@@ -1,0 +1,13 @@
+h1{
+    color: aquamarine;
+}
+
+.formulario{
+    border: 2px solid red;
+}
+#nombre{
+    border: 2px solid blue;
+}
+#apellido{
+    border: 2px solid blue;
+}

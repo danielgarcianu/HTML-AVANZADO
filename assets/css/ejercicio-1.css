@@ -1,0 +1,34 @@
+body{
+    background-color: green;
+}
+.formulario{
+   display: inline-block;
+}
+
+label{
+    display: inline-block;
+    width: 90px;
+    margin: 0 25px;
+    border: 5px;
+    color: white;
+}
+
+#nombre{
+    border: 1px solid red;
+}
+#email{
+    border: 1px solid red;
+}
+#telefono{
+    border: 1px solid red;
+}
+#pais{
+    border: 1px solid red;
+}
+#numero{
+    border: 1px solid red;
+}
+#nombre_de_la_tarjeta{
+    border: 1px solid red;
+}
+
